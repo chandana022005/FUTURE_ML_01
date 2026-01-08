@@ -12,6 +12,14 @@ This is a comprehensive sales forecasting application featuring:
 - ✅ **Automated Business Insights Generation**
 - ✅ **Beautiful Web UI** (Streamlit-based)
 
+## 🎥 Demo Video
+
+**[▶️ Watch Full Application Demo](https://drive.google.com/file/d/1RXEOnNthmoH0QTErSAe37SNBlp9ZFgmm/view?usp=drive_link)**
+
+See the complete walkthrough of the Sales Forecasting System in action!
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Install Dependencies

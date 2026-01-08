@@ -1,31 +1,20 @@
 # Demo Video
 
-## 📹 Video Location
+## 🎥 Watch the Application Demo
 
-The demo video is too large for GitHub (173 MB).
+**[▶️ Click Here to Watch Demo Video](https://drive.google.com/file/d/1RXEOnNthmoH0QTErSAe37SNBlp9ZFgmm/view?usp=drive_link)**
 
-### Options to Share:
+### Video Contents:
+- Complete application walkthrough
+- Data upload demonstration
+- Model selection and configuration
+- Running forecasts with different models
+- Viewing results, metrics, and insights
+- Downloading forecast data
 
-1. **Upload to YouTube** (Recommended)
-   - Upload `demo_walkthrough.mp4` to YouTube
-   - Set as "Unlisted" or "Public"
-   - Add link here
-
-2. **Upload to Google Drive**
-   - Upload to Google Drive
-   - Share with "Anyone with the link"
-   - Add link here
-
-3. **Use File Transfer Service**
-   - WeTransfer: https://wetransfer.com/
-   - Send link here
-
-## 📝 To Add Video Link:
-
-Replace this text with:
-```markdown
-🎥 **Watch Demo Video**: [Click Here](YOUR_VIDEO_LINK)
-```
+**Duration**: ~2-3 minutes  
+**Quality**: Full HD  
+**Hosted on**: Google Drive
 
 ---
 

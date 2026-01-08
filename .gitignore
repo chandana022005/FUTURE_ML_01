@@ -44,6 +44,11 @@ desktop.ini
 # Logs
 *.log
 
+# Large video files (upload separately to YouTube/Drive)
+outputs/videos/*.mp4
+outputs/videos/*.avi
+outputs/videos/*.mov
+
 # Distribution
 dist/
 build/
